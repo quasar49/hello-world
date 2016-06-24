@@ -1,3 +1,3 @@
 # hello-world
-Getting started
+Getting started.
 Humans, Singularity is closing in on us! 
